@@ -1,2 +1,13 @@
 hi  this is my first session in github.
-hope it is fine
+hope it is fine 
+its boring monday
+
+
+
+#include<stdio.h>
+
+int main(void) {
+  printf("Hello pratyusha");
+
+  return 0;
+}
